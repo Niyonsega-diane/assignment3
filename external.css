@@ -1,0 +1,15 @@
+body{background-color: rgb(146, 40, 58); margin: top 12px;padding: 13px 15px;} 
+
+p{color:goldenrod;}
+a:link{ margin: 10px; background-color: rgb(147, 165, 42);display: inline;
+text-decoration:none ;}
+
+a:hover{background-color: black; color:white}
+#nav{
+    background-color: black;
+    color: blue;
+    width: 100vw;
+
+}
+#nav a :hover {text-decoration:underline;}
+#nav a:link {color:rgb(56, 85, 90);margin: 30px;}
